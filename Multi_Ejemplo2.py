@@ -1,3 +1,6 @@
+#------------------------------------------------
+# Colas en Multiprocessing
+#------------------------------------------------
 from multiprocessing import Queue, Process
 
 # Al cubo
